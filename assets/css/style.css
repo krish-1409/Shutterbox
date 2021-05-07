@@ -668,6 +668,7 @@ section {
   padding: 80px 20px;
   transition: all ease-in-out 0.3s;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  width:90%;
 }
 
 .services .icon-box .icon {
@@ -1247,7 +1248,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #efefef;
+  background: #A7A1AE;
 }
 
 .breadcrumbs h2 {
