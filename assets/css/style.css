@@ -1486,7 +1486,7 @@ padding-left:2%;
   background-color: #1F2739;
 }
 
-.container_table td:first-child { color: #FB667A; }
+.container_table td:first-child a { color: #FB667A; }
 
 .container_table tr:hover {
  background-color: #464A52;
